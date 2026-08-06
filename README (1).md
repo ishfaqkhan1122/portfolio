@@ -2,7 +2,7 @@
 
 # Ishfaq Khan
 
-### AI/ML Engineer Intern · Instructor · BS Artificial Intelligence Student
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=4FD8C4&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+Intern;Instructor;BS+Artificial+Intelligence+Student" />
 
 📍 Bannu, Pakistan &nbsp;·&nbsp; 🟢 Open to AI/ML opportunities
 
@@ -23,13 +23,13 @@
 
 <br>
 
-## About
+# About
 
 I'm a BS Artificial Intelligence student at the **University of Science and Technology, Bannu** (2024–2028), currently working as an **AI/ML Engineer Intern** at Tech Prime Pvt. Limited, Islamabad. Alongside that, I teach **AI/ML, Data Science, and Office Automation** at Axis Institute, Bannu — turning what I learn into what I teach.
 
 <br>
 
-## Experience
+# Experience
 
 <table>
 <tr>
@@ -56,17 +56,32 @@ I'm a BS Artificial Intelligence student at the **University of Science and Tech
 
 <br>
 
-## Skills
+# Skills
 
 <table>
-<tr><td><b>Languages</b></td><td>Python · SQL · C#</td></tr>
-<tr><td><b>ML & Data</b></td><td>Pandas · NumPy · Scikit-learn</td></tr>
-<tr><td><b>Visualization</b></td><td>Matplotlib · Seaborn</td></tr>
+
+### Languages
+
+![](https://skillicons.dev/icons?i=python,cs,mysql)
+
+### AI / ML
+
+![](https://skillicons.dev/icons?i=tensorflow,pytorch)
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+### Tools
+
+![](https://skillicons.dev/icons?i=vscode,git,github,anaconda)
+
+
 </table>
 
 <br>
 
-## Featured Projects
+# Featured Projects
 
 <table>
 <tr>
@@ -93,18 +108,20 @@ I'm a BS Artificial Intelligence student at the **University of Science and Tech
 
 <br>
 
-## GitHub Activity
+# 📚 Currently Learning
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishfaqkhan1122&show_icons=true&theme=dark&hide_border=true&bg_color=0B0E14&title_color=4FD8C4&icon_color=F2A65A&text_color=E7E5E0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfaqkhan1122&layout=compact&theme=dark&hide_border=true&bg_color=0B0E14&title_color=4FD8C4&text_color=E7E5E0" />
-
-</div>
+```text
+Python            ████████████████
+NumPy             ██████████████
+Pandas            ██████████████
+Machine Learning  ███████████
+Deep Learning     ██████
+NLP               ████
+```
 
 <br>
 
-## Contact
+# Contact
 
 <div align="center">
 
@@ -116,5 +133,8 @@ Open to AI/ML roles, collaborations, and teaching opportunities.
 [![Kaggle](https://img.shields.io/badge/Kaggle-ishfaqkhankpk-0B0E14?style=for-the-badge&logo=kaggle&logoColor=F2A65A)](https://www.kaggle.com/ishfaqkhankpk)
 
 <sub>Bannu, Pakistan</sub>
-
 </div>
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9FF&height=120&section=footer"/>
